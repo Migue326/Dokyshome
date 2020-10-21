@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+@0verridep
+public view Oncreateview(layout Innflater inflater,viewGroup container Bundle SavedInstance State
+// return super.Oncreatewiew(inflater container, oncreate savedInstancestate);
+view v=inflaterl.inflate(R.layout.fragment_recyclerview,container,false);
+return v;
+
+toolbar=(toolbar)FindViewById(R.id.toolbar);
+tablayout=(tablayout)FindViewById(R.id.tablayout);
+viewpager=(Viewpager(FindViewById(R.id.Viewpager);
+

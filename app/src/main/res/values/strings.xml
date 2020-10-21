@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dokys home</string>
+
+<resources>
+<string name="app_name">Dokys home </string>
+<string name="menu_Contacto">Contacto</string>
+<string name="menu_About">About</string>
+<string name="texto_Contactot">Contacto</string>
+<string name="texto_About">About</string>
+
+</resources>
